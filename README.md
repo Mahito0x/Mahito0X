@@ -5,7 +5,7 @@ Welcome to my corner of the internet! I'm a beginner developer on a journey to u
 ---
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning:** Java – because every great journey starts with a first line of code.  
+- 🌱 **Currently Learning:** HTML & Python – because every great journey starts with a first line of code.  
 - 🧠 **Areas of Interest:** Cybersecurity, computer science, and anything that sparks curiosity.  
 - 🔍 **Explorer Mode:** Building beginner projects to sharpen my skills.  
 - 🤝 **Collab With Me On:** Projects that challenge and inspire.  
