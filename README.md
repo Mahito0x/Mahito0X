@@ -11,7 +11,7 @@ Welcome to my digital playground! I'm a **passionate student** exploring **AI, M
 - 🔥 **Passionate About:** AI, cybersecurity, and scalable systems.  
 - 🎯 **Mission:** To build innovative solutions that make an impact.  
 - 🚀 **Explorer Mode:** Creating mini-projects to sharpen my skills.  
-- 💡 **Fun Fact:** I believe tech should be **both mischievous and helpful**—just like my AI bot **Hikaru**.  
+- 💡 **Fun Fact: Nothing atm.  
 
 ---
 
