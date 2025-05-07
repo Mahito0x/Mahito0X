@@ -1,52 +1,82 @@
-# 🚀 Xayden  
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Mahito0x</span>!</h1>
 
-> *"Curious. Relentless. Always learning. The journey never stops."*  
-
-Welcome to my digital playground! I'm a **passionate student** exploring **AI, Machine Learning, Cybersecurity, Cloud Computing, and Full-Stack Development.** Always pushing boundaries, learning new tech, and working on creative projects.  
-
----
-
-## 🌟 About Me  
-- 🛠 **Currently Learning:** Python & HTML.  
-- 🔥 **Passionate About:** AI, cybersecurity, and scalable systems.  
-- 🎯 **Mission:** To build innovative solutions that make an impact.  
-- 🚀 **Explorer Mode:** Creating mini-projects to sharpen my skills.  
-- 💡 **Fun Fact: Nothing atm.  
+<p align="center">
+  <i>Frontend learner | Future full stack dev | Cybersecurity explorer | Code gremlin in training</i>
+</p>
 
 ---
 
-## ⚡ Skills & Tools  
-### **🖥️ Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+## 🚀 About Me
 
-### **🔧 Developer Tools & Platforms:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+```js
+const Mahito = {
+  currentFocus: "Frontend Development",
+  goals: ["Master JavaScript", "Build awesome UIs", "Break into Full Stack & Cybersecurity"],
+  favoriteThings: ["Discord bots", "Clean UI", "Dark themes", "Learning by doing"],
+  motto: "Try. Fail. Learn. Repeat.",
+};
 
-### **🚀 Superpowers:**  
-- **Creative & Analytical Thinking** – Innovation meets logic.  
-- **Cybersecurity Enthusiast** – Passionate about securing systems.  
-- **Self-Learner & Problem Solver** – Always leveling up.  
+	•	🔭 Currently learning HTML, CSS, and JavaScript
+	•	⚡ Planning to dive into Full Stack and Cybersecurity soon
+	•	🤖 Building Discord bots for fun (and chaos)
+	•	💡 I break stuff to learn how it works (then fix it… eventually)
 
----
+⸻
 
-## 🎯 What’s Next?  
-- 🏗 **Building** a sleek, Flighty-inspired **portfolio** (dark mode by default).  
-- 🔐 **Deep diving** into cybersecurity and ethical hacking.  
-- 🌍 **Launching** a **tech-driven transport business** in Kenya.  
-- 🤝 **Collaborating** with other devs on meaningful projects.  
+🛠️ Tech Stack (So Far)
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+</p>
 
-## 📫 Let’s Connect  
-- 📧 **Email:** [XaydenOfficial@gmail.com](mailto:XaydenOfficial@gmail.com)  
-- 🌍 **Portfolio:** [Coming soon!](#)  
-- 🛠 **Discord Server:** *[Global Lounge Community](https://discord.gg/KanK9j6pxV)* – A worldwide hub for tech, gaming, and friendships!
 
----
 
-> *“The journey of a thousand lines of code begins with a single keystroke.”*  
 
-Thanks for stopping by! Feel free to check out my projects, contribute, or drop me a message. 🚀🔥  
+⸻
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahito0x&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahito0x&layout=compact&theme=tokyonight" height="180">
+</p>
+
+
+
+
+⸻
+
+✨ My Vibe
+	•	☕ Runs on coffee and console.log()
+	•	🧠 Learns by breaking and rebuilding
+	•	😎 Believes bugs are just misunderstood features
+	•	🎯 Code, fail, repeat… and eventually succeed
+
+⸻
+
+📬 Contact Me
+
+<p align="center">
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Mahito0x-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mahito0x" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mahito0x-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
+
+
+⸻
+
+💬 Final Thought
+
+“The best way to learn code is to make enough mistakes that Stack Overflow starts to feel like home.”
+
+Thanks for stopping by — whether you’re a developer, designer, or just lost on GitHub.
+Stay curious, stay creative, and may your code compile on the first try!
