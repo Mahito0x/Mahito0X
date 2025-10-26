@@ -90,7 +90,7 @@
   </a>
   
 
-  <a href="https://instagram.com/mahitokyo" target="_blank">
+  <a href="https://instagram.com/mahitron" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"
          style="transition: transform 0.2s;" 
          onmouseover="this.style.transform='scale(1.2)'" 
@@ -104,13 +104,6 @@
          onmouseout="this.style.transform='scale(1)'">
   </a>
 
-
-  <a href="https://ko-fi.com/mohaaz" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="Ko-fi" height="40" width="40"
-         style="transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.2)'" 
-         onmouseout="this.style.transform='scale(1)'">
-  </a>
 
 </div>
 
@@ -143,7 +136,7 @@ Feel free to invite the bot to your server once it's deployed!
 
 If you find my projects helpful or just want to support what I do, consider buying me a coffee! ☕
 
-  <a href="https://ko-fi.com/mohaaz" target="_blank">
+  <a href="https://ko-fi.com/M4hito" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me A Coffee"
        style="transition: transform 0.2s;"
        onmouseover="this.style.transform='scale(1.05)'" 
