@@ -11,11 +11,10 @@
 
 - 📫 How to reach me **Feel free to ping me on my server or DM The GlobeDesk (Private ModMail for my server, Global Lounge). I don’t accept DMs outside the server.**
 
-- ⚡ Fun fact **I love music—it helps me relax and cope with depression 😊**
+- ⚡ Fun fact **I love music—it helps me relax and cope with depression 😊 and I also Love Poem too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/m4hito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="m4hito" height="30" width="40" /></a>
 <a href="https://twitter.com/_m4hito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_m4hito" height="30" width="40" /></a>
 <a href="https://instagram.com/mahitokyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahitokyo" height="30" width="40" /></a>
 <a href="https://discord.gg/KanK9j6pxV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KanK9j6pxV" height="30" width="40" /></a>
