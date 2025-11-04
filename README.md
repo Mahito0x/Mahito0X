@@ -157,11 +157,7 @@ If you find my projects helpful or just want to support what I do, consider buyi
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahito0x/Mahito0X/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahito0x/Mahito0X/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahito0x/Mahito0X/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/Mahito0x/Mahito0X/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
