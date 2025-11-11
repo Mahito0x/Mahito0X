@@ -4,38 +4,36 @@
 
 ### 🚀 Developer | Discord Bot Creator | Community Builder
 
-<img src="https://komarev.com/ghpvc/?username=mahito0x&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mahito0x&label=Visitors&style=flat&radius=10&color=1E90FF" alt="Visitors" />
 
 </div>
 
 <div align="center">
-  
+<!-- 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  Passionate about building Discord bots & Python solutions    ║
 ║  Creating spaces where people connect globally 🌍             ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
+-->
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Current Project:** Working on **Lumière** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
+- 🔭 **Current Project:** Working on **[Lumière](https://github.com/Mahito0x/Lumiere-Feedback)** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
   
 - 🌱 **Currently Learning:** HTML, CSS, and JavaScript to strengthen my web development skills and expand my tech stack
 
-- 💬 **Ask Me About:** Python development, Discord bot architecture, community management, and programming best practices
-
 - 📫 **Reach Me:** Join my Discord server or contact via The GlobeDesk (Private ModMail for Global Lounge). *Note: I don't accept DMs outside the server*
 
-- 🎵 **Fun Fact:** Music is my therapy—it helps me relax and cope with tough times 😊. I also enjoy writing poems and expressing creativity through words
+- 🎵 **Fun Fact:** [Music](https://open.spotify.com/user/hi521fhdpsm6k3fv1h2ei2elu) is my therapy—it helps me relax and cope with tough times 😊. I also enjoy writing poems and expressing creativity through words
 
-- 🌐 **Community:** Running **Global Lounge** – a welcoming Discord community where people from around the world connect, collaborate, and make lasting friendships
+- 🌐 **Community:** Running **[Global Lounge](https://discord.gg/KanK9j6pxV)** – a welcoming Discord community where people from around the world connect, collaborate, and make lasting friendships
 
 ---
 
@@ -53,6 +51,7 @@
 
 ### Frameworks & Libraries
 [![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Discord.js](https://img.shields.io/badge/Discord.js-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://discord.js.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ### Tools & Platforms
@@ -82,51 +81,20 @@
 
 <div align="center" style="display:flex; gap:20px; justify-content:center;">
 
-  <a href="https://twitter.com/_m4hito" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"
-         style="transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.2)'" 
-         onmouseout="this.style.transform='scale(1)'">
+  <a href="https://bsky.app/profile/mahitron.bsky.social" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="67" height="52" alt="bluesky logo"  />
   </a>
-  
+  <a href="https://www.instagram.com/mahitron/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="52" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/774249602621767731" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="52" alt="discord logo"  />
+  </a>
 
-  <a href="https://instagram.com/mahitron" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"
-         style="transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.2)'" 
-         onmouseout="this.style.transform='scale(1)'">
-  </a>
-  
-  <a href="https://discord.gg/KanK9j6pxV" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40"
-         style="transition: transform 0.2s;" 
-         onmouseover="this.style.transform='scale(1.2)'" 
-         onmouseout="this.style.transform='scale(1)'">
-  </a>
 
 
 </div>
 
----
-
-## 💎 Featured Project
-
-<div align="center">
-
-### ✨ Lumière
-**All-in-One Discord Bot for Server Management**
-
-```
-🔧 In Development  |  🐍 Built with Python  |  🎯 Enterprise-Grade Features
-```
-
-A comprehensive Discord bot solution designed for large-scale server management.  
-Handles moderation, automation, engagement, and everything in between.
-
-**Current Status:** Actively developing the main Moderation System feature.  
-Feel free to invite the bot to your server once it's deployed!
-
-</div>
 
 ---
 
@@ -157,8 +125,11 @@ If you find my projects helpful or just want to support what I do, consider buyi
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Mahito0x/Mahito0X/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahito0X/Mahito0X/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahito0X/Mahito0X/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahito0X/Mahito0X/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
@@ -168,5 +139,6 @@ If you find my projects helpful or just want to support what I do, consider buyi
 *Made with ❤️ and lots of ☕ by Mahito*
 
 </div>
+
 
 
