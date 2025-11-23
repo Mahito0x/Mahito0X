@@ -123,7 +123,7 @@ If you find my projects helpful or just want to support what I do, consider buyi
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahito0X/Mahito0X/output/pacman-contribution-graph-dark.svg">
@@ -139,6 +139,7 @@ If you find my projects helpful or just want to support what I do, consider buyi
 *Made with ❤️ and lots of ☕ by Mahito*
 
 </div>
+
 
 
 
