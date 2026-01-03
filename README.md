@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Current Project:** Working on **[Lumière](https://github.com/Mahito0x/Lumiere-Feedback)** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
+- 🔭 **Current Project:** Working on **[Lumière](http://lumierebot.vercel.app)** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
   
 - 🌱 **Currently Learning:** HTML, CSS, and JavaScript to strengthen my web development skills and expand my tech stack
 
@@ -46,12 +46,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 
 ### Frameworks & Libraries
 [![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://discord.js.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ### Tools & Platforms
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center" style="display:flex; gap:20px; justify-content:center;">
 
@@ -139,6 +139,7 @@ If you find my projects helpful or just want to support what I do, consider buyi
 *Made with ❤️ and lots of ☕ by Mahito*
 
 </div>
+
 
 
 
