@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Mahito
 
-### 🚀 Developer | Discord Bot Creator | Community Builder
+### 🚀 Front-end Developer | Discord Bot Creator | Community Builder
 
 <img src="https://komarev.com/ghpvc/?username=mahito0x&label=Visitors&style=flat&radius=10&color=1E90FF" alt="Visitors" />
 
@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Current Project:** Working on **[Lumière](http://lumierebot.vercel.app)** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
+- 🔭 **Current Project:** Working on **[Lumière](http://lumierelabs.xyz)** – a comprehensive, private all-in-one Discord bot designed to handle everything large servers need
   
 - 🌱 **Currently Learning:** HTML, CSS, and JavaScript to strengthen my web development skills and expand my tech stack
 
@@ -139,6 +139,7 @@ If you find my projects helpful or just want to support what I do, consider buyi
 *Made with ❤️ and lots of ☕ by Mahito*
 
 </div>
+
 
 
 
