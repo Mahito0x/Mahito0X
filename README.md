@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Mahito
+# 👋 Hey there, I'm Zayn
 
 ### 🚀 Front-end Developer | Discord Bot Creator | Community Builder
 
@@ -90,8 +90,6 @@
   <a href="https://discord.com/users/774249602621767731" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="52" alt="discord logo"  />
   </a>
-
-
 
 </div>
 
