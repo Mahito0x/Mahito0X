@@ -29,9 +29,9 @@
   
 - 🌱 **Currently Learning:** HTML, CSS, and JavaScript to strengthen my web development skills and expand my tech stack
 
-- 📫 **Reach Me:** Join my Discord server or contact via The GlobeDesk (Private ModMail for Global Lounge). *Note: I don't accept DMs outside the server*
+- 📫 Reach Me: Join my Discord server or email me at zayn@lumierelabs.xyz for inquiries, collaborations, or support. I don’t accept friend requests or direct messages outside the server.
 
-- 🎵 **Fun Fact:** [Music](https://open.spotify.com/user/hi521fhdpsm6k3fv1h2ei2elu) is my therapy—it helps me relax and cope with tough times 😊. I also enjoy writing poems and expressing creativity through words
+- ⚡ Fun Fact: I care deeply about nature, the planet, and building things that leave a positive impact.
 
 - 🌐 **Community:** Running **[Global Lounge](https://discord.gg/KanK9j6pxV)** – a welcoming Discord community where people from around the world connect, collaborate, and make lasting friendships
 
